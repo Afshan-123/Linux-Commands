@@ -1,3 +1,5 @@
 Add user
 mkdir
 cd
+grep
+ps -ef
